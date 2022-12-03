@@ -37,8 +37,8 @@
       ]
     },
     "D:\\tutorials\\web3-ethereum-smart-contracts\\contracts\\Counter.sol": {
-      "lastModificationDate": 1670091751582,
-      "contentHash": "535478da694279a38d4b5e5ef884b7fd",
+      "lastModificationDate": 1670092882468,
+      "contentHash": "9b6e2cbd55802b93fa5f4bed52677712",
       "sourceName": "contracts/Counter.sol",
       "solcConfig": {
         "version": "0.8.17",
